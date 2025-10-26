@@ -11,6 +11,7 @@ Aqui, você encontrará conteúdos sobre:
 
 1.  [Lógica de Programação e Algoritmos](https://github.com/allan-rcos/engenharia-de-software/tree/master/02__fundamentos_de_sistemas/01__lpa__logica_de_programacao_e_algoritmo)
 2.  [Comunicação Empresarial](https://github.com/allan-rcos/engenharia-de-software/tree/master/02__fundamentos_de_sistemas/02__ce__comunicacao_empresarial)
+3.  [Fundamentos de Infraestrutura da TI](https://github.com/allan-rcos/engenharia-de-software/tree/master/02__fundamentos_de_sistemas/03__fiti__fundamentos_de_infraestrutura_da_ti)
 -----
 
 ### Lógica de Programação e Algoritmos
@@ -20,3 +21,7 @@ Este repositório contém materiais de estudo sobre Lógica de Programação e A
 ### Comunicação Empresarial
 
 Este repositório contém materiais de estudo sobre Noções de Comunicação e Expressão, abrangendo desde conceitos básicos até aprimoramentos na escrita e oralidade.
+
+### Fundamentos de Infraestrutura da TI
+
+Esta disciplina apresenta uma visão abrangente sobre os Fundamentos de Infraestrutura da Tecnologia da Informação (TI), cobrindo desde a arquitetura básica de sistemas computacionais e seus componentes internos — como barramentos, memória e dispositivos de E/S — até o papel central dos Sistemas Operacionais na gestão de recursos e processos. Além disso, o material detalha os protocolos essenciais da Internet, como IP, TCP e UDP, explorando a arquitetura de redes, e conclui com uma análise dos protocolos de aplicação e dos mecanismos de segurança e roteamento fundamentais para a infraestrutura moderna de TI.

@@ -9,14 +9,19 @@ Aqui, você encontrará conteúdos sobre:
 
 ## Sumário
 
+1.  [Análise e Modelagem de Sistemas](https://github.com/allan-rcos/engenharia-de-sistemas/tree/master/03__programador_de_sistemas/01__ams__analise_e_modelagem_de_sistemas)
 2.  [Aplicações Web e Móveis](https://github.com/allan-rcos/engenharia-de-sistemas/tree/master/03__programador_de_sistemas/02__awm__aplicacao_web_e_moveis)
 3.  [Banco de Dados Relacional](https://github.com/allan-rcos/engenharia-de-sistemas/tree/master/03__programador_de_sistemas/03__bds__banco_de_dados_relacional)
 -----
 
-### Banco de Dados Relacional
+### Análise e Modelagem de Sistemas
 
-Este repositório aborda os fundamentos e conceitos avançados de Banco de Dados Relacionais, desde a modelagem e construção de estruturas até a manipulação de dados e uso de procedimentos armazenados.
+A Análise de Sistemas é a disciplina fundamental que traduz as necessidades de negócio do cliente em um projeto técnico de software. A modelagem é essencial para planejar tecnicamente um software antes da codificação, garantindo que os requisitos sejam atendidos.
 
 ### Aplicações Web e Móveis
 
 Este repositório contém materiais de estudo sobre o desenvolvimento web **front-end**, cobrindo as linguagens essenciais: **HTML**, **CSS** e **JavaScript**.
+
+### Banco de Dados Relacional
+
+Este repositório aborda os fundamentos e conceitos avançados de Banco de Dados Relacionais, desde a modelagem e construção de estruturas até a manipulação de dados e uso de procedimentos armazenados.
